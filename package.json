@@ -1,0 +1,24 @@
+{
+  "name": "@axonite.io/es6-ttl-cache",
+  "version": "0.0.1",
+  "description": "An ES6 Fast TTL cache for API serving",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eventSourcerer/es6-ttl-cache.git"
+  },
+  "keywords": [
+    "TTL",
+    "CACHE",
+    "ES6"
+  ],
+  "author": "Axonite",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/eventSourcerer/es6-ttl-cache/issues"
+  },
+  "homepage": "https://github.com/eventSourcerer/es6-ttl-cache#readme"
+}
