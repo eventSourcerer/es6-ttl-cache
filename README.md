@@ -14,7 +14,7 @@ npm install @axonite.io/es6-ttl-cache
 
 const Cache = require("@axonite.io/es6-ttl-cache");
 
-const cache = new Cache({});
+const cache = new Cache({ maxSize: 100000, maxTTL: 300 }); // These are also the defaults
 
 cache.set("key","value");
 
